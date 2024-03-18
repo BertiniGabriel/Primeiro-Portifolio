@@ -143,4 +143,9 @@ h1 {
     .apresentacao__conteudo {
         width: auto;
     }
+
+     .apresentacao__links__navegacao {
+        width: auto;
+        padding: 2%;
+    }
 }
